@@ -6,6 +6,7 @@ It is based off the Arduino version which you can find [here](https://github.com
 The library is still very much under construction so feel free to speed up the work by contributing. Also feel free to share and use it how you like
 
 Libraries required:
+
 **Wire.h** - https://github.com/energia/Energia/blob/master/hardware/msp430/cores/msp430/Wire.h
 **Stream.h** - https://github.com/energia/Energia/blob/master/hardware/msp430/cores/msp430/Stream.h
 **Print.h** - https://github.com/energia/Energia/blob/master/hardware/msp430/cores/msp430/Print.h
@@ -15,6 +16,7 @@ Libraries required:
 **new.h** - https://github.com/cyoung/Energia/blob/master/hardware/msp430/cores/msp430/new.h
 
 Libraries that should be included by default:
+
 **inttypes.h** - https://github.com/ArduCAM/Energia/blob/master/hardware/tools/msp430/msp430/include/inttypes.h
 **stdint.h** - https://github.com/ArduCAM/Energia/blob/master/hardware/tools/msp430/msp430/include/stdint.h
 **stdio.h** - https://github.com/ArduCAM/Energia/blob/master/hardware/tools/msp430/msp430/include/stdio.h
